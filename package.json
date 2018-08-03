@@ -1,0 +1,27 @@
+{
+  "name": "grav-theme-mache",
+  "version": "0.0.1",
+  "description": "Grav Theme Mache, enhanced to have configurable CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranduyhung/grav-theme-mache.git"
+  },
+  "keywords": [
+    "grav",
+    "mache",
+    "template"
+  ],
+  "author": "Hung Tran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tranduyhung/grav-theme-mache/issues"
+  },
+  "homepage": "https://github.com/tranduyhung/grav-theme-mache#readme",
+  "dependencies": {
+    "sass": "^1.10.2"
+  }
+}
