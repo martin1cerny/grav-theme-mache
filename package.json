@@ -4,7 +4,8 @@
   "description": "Grav Theme Mache, enhanced to have configurable CSS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "sass --update styles:dist\\css",
+    "watch": "sass --watch styles:dist\\css"
   },
   "repository": {
     "type": "git",
